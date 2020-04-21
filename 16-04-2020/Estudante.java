@@ -1,5 +1,3 @@
-package pkg16.pkg04.pkg2020;
-
 public class Estudante {
     private int codigo;
     private String nome;
