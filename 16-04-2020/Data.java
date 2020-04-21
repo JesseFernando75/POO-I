@@ -1,5 +1,3 @@
-package pkg16.pkg04.pkg2020;
-
 public class Data {
     private int dia;
     private int mes;
