@@ -1,5 +1,3 @@
-package pkg23.pkg04.pkg2020;
-
 public class Main {
     public static void main(String[] args) {
         Lutador l[] = new Lutador[6];
