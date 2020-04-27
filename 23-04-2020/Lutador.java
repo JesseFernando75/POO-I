@@ -1,5 +1,3 @@
-package pkg23.pkg04.pkg2020;
-
 public class Lutador{
     private String nome, nacionalidade, categoria;
     private float peso, altura;
