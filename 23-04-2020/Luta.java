@@ -1,5 +1,3 @@
-package pkg23.pkg04.pkg2020;
-
 import java.util.Random;
 
 public class Luta{
@@ -88,6 +86,6 @@ public class Luta{
 
     public void setAprovada(boolean aprovada) {
         this.aprovada = aprovada;
-    }
-    
+        
+    }    
 }
