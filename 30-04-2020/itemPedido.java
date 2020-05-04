@@ -1,5 +1,3 @@
-package comanda;
-
 public class itemPedido{
     private int quantidade;
     private Produto produto;
