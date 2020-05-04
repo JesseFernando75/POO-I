@@ -1,5 +1,3 @@
-package comanda;
-        
 public class Pedido{
     private float valor_total = 0;
     private itemPedido item;
