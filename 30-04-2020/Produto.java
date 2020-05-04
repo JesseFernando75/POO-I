@@ -1,5 +1,3 @@
-package comanda;
-
 public class Produto{
     private int codigo;
     private float valor;
